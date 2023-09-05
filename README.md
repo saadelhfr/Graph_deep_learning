@@ -14,3 +14,8 @@ run the following command to install the required packages
 ## Usage
 
 The project is set up as a library so you can use jupyter notebook for training and testing the models and build on your own implementations or models 
+
+
+## Data 
+
+The data used and benchmarks established are proprietary information and sadly cannot be shared.
